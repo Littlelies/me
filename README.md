@@ -10,7 +10,7 @@
 
 ## Roles (most recent first)
 - 1POINT6: COO *Just started*
-- Hipay: C-level executive in charge of Technology, Product and Product Marketing *1.5 years*
+- Hipay: C-level executive in charge of Technology, Product and Product Marketing for an European Payment Service Provider *1.5 years*
 - Zeppto: co Founder and CTO helping ecommerce players make more from their checkout *3 years*
 - NephelAI: co Founder and COO of a fintech *2 year*
 - Mast Mobile (Mast bought Invities and was a B2B MVNO): Tech lead and French subsidiary manager  *3 years*
